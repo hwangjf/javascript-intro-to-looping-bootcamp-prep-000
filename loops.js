@@ -8,13 +8,3 @@ function forLoop (array) {
 }
 return array
 }
-
-function whileLoop (n) {
-  if (n > 0) {
-  while (n > 0) {
-    console.log (--n)
-  } else {
-    return 'done'
-  }
-}
-}
