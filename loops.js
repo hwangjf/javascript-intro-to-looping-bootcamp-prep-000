@@ -6,4 +6,5 @@ function forLoop (array) {
   array.push(console.log ("I am "+ i + " strange loops."))
 }
 }
+return array
 }
