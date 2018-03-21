@@ -13,7 +13,7 @@ return array
 
 function whileLoop (n) {
   if (n > 0) {
-    while (n > 0) {
+    while (n > 1) {
       console.log(--n)
     }
   } else {
