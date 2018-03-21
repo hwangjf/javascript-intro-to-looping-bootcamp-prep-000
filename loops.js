@@ -19,5 +19,7 @@ function whileLoop (n) {
 }
 
 function doWhileLoop (array) {
-  
+  Do {
+    loopbody
+  } while ()
 }
