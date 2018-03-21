@@ -10,5 +10,7 @@ return array
 }
 
 function whileLoop (n) {
-  
+  while (n > o) {
+    console.log (--n)
+  }
 }
