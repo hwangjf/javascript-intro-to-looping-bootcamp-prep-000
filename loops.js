@@ -16,7 +16,8 @@ function whileLoop (n) {
     console.log (n);
     n--;
     if (n === 0) {
-      console.log ('done')
+      console.log ('done');
+      break;
     }
   }
 }
